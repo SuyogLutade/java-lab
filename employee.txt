@@ -1,0 +1,2 @@
+ID: 101, Name: John Doe, Department: IT, Salary: $75000
+ID: 102, Name: Jane Smith, Department: HR, Salary: $68000
